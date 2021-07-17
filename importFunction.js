@@ -1,2 +1,2 @@
-const value = require("./exportFunction");
-console.log(value("This is a Function"));
+const msg = require("./exportFunction.js");
+console.log(msg());
